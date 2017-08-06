@@ -1,0 +1,7 @@
+.material-icons{
+	cursor: pointer;
+}
+
+.collection-item:hover{
+	background-color: #ccc;
+}
